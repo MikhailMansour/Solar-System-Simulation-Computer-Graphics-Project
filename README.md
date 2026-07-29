@@ -21,6 +21,7 @@ This project simulates the solar system with varying planetary speeds to realist
 #CPP #OpenGL #ComputerGraphics #Programming #Simulation #SoftwareDevelopment
 
 📢 My Communication
+
 [🎬 Watch video on LinkedIn]
 
 https://www.linkedin.com/posts/mikhailmansour_cpp-opengl-computergraphics-ugcPost-7473788180937461760-fxkK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGTkeIoB5C0F0fFLr3kYLetY_rilH0WZQiY 
