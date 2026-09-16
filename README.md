@@ -2,6 +2,8 @@ Completed my Solar System Simulation Project using C++ and OpenGL 🚀
 
 This project simulates the solar system with varying planetary speeds to realistically model planetary motion .
 
+<img width="1920" height="1020" alt="55" src="https://github.com/user-attachments/assets/23f23085-279f-48e1-84bf-d52cb1be8012" />
+
 ##  Features: ##
 
 ☀️Sun-centered Solar System model
